@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lokesh Dhariyal</h1>
 <h3 align="center">A Student learning computer science.</h3>
-<img align="right" alt="No Picture" width="300" src="https://media.tenor.com/vZjt6-cM9bYAAAAd/rick-and-morty-rick.gif">
+<!-- <img align="right" alt="No Picture" width="300" src="https://media.tenor.com/vZjt6-cM9bYAAAAd/rick-and-morty-rick.gif"> -->
 - I’m currently learning **Web Development**
 
 
@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/rokeshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokeshu" height="30" width="40" /></a>
 
 
-<a href="https://www.linkedin.com/in/lokesh-dhariyal-82766431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-dhariyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lokesh-dhariyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-dhariyal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@lokeshdhariyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokeshdhariyal" height="30" width="40" /></a>
 </p>
 
