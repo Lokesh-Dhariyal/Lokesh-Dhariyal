@@ -1,23 +1,81 @@
-<h1 align="center">Hi, I'm Lokesh Dhariyal</h1>
-<h3 align="center">A Student learning computer science.</h3>
-<!-- <img align="right" alt="No Picture" width="300" src="https://media.tenor.com/vZjt6-cM9bYAAAAd/rick-and-morty-rick.gif"> -->
-- I’m currently learning **Web Development**
+<h1 align="center">Hey there 👋, I'm Lokesh "Loki" Dhariyal</h1>
 
-
-- Fun fact **I know basic of how to Sa Re Ga Ma Pa on the Guitar**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://codeforces.com/profile/rokeshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rokeshu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rokeshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokeshu" height="30" width="40" /></a>
-
-
-<a href="https://www.linkedin.com/in/lokesh-dhariyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-dhariyal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@lokeshdhariyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokeshdhariyal" height="30" width="40" /></a>
+<p align="center" style="width:100%">
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Final+Year+CS+Student;FullStack+Developer+in+Progress...;Let's+build+something+beautiful!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-dhariyal&show_icons=true&locale=en&layout=compact" alt="lokesh-dhariyal" /></p>
+## 👨‍💻 About Me
+
+```js
+const loki = {
+  pronouns: "he/him",
+  code: ["JavaScript", "Python", "HTML", "CSS", "C++", "React", "Node"],
+  tools: ["VS Code", "Git", "MongoDB", "Express", "Firebase", "TailwindCSS"],
+  loves: ["Guitar", "Singing", "Building Cool Projects", "Learning New Tech"],
+  goal: "To become a great developer & rock the tech world 🎸"
+};
+```
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://lokeshdhariyal.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lokeshdhariyal" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lokeshdhariyal@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lokesh-Dhariyal">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</p>
+
+🌐 **Portfolio:** [lokeshdhariyal.vercel.app](https://lokeshdhariyal.vercel.app)
+
+---
+
+## 🚀 My Skills
+
+| Tech Stack | 💻 |
+|------------|-----|
+| Languages | ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| Frontend  | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| Backend   | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white) |
+| Database  | ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Dhariyal&show_icons=true&theme=radical&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Dhariyal&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+
+## 🛠 Projects in Progress
+
+- 🎯 Building beautiful full-stack apps  
+- 📚 Learning advanced React & container technologies  
+- 🧠 Sharpening DSA skills with poetic patience  
+- 🎸 Recording guitar covers & coding playlists  
+
+---
+
+### ⚡ Fun Fact
+
+> I don't just write code,  
+> I **compose** it —  
+> Like chords on strings,  
+> or wings of logic,  
+> I let the syntax sing. 🎶
+
