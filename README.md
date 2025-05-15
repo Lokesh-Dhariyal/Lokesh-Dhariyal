@@ -26,7 +26,7 @@ const loki = {
   <a href="https://lokeshdhariyal.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/lokeshdhariyal" target="_blank">
+  <a href="https://www.linkedin.com/in/lokesh-dhariyal/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lokeshdhariyal@gmail.com">
