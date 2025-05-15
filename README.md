@@ -1,12 +1,12 @@
-<h1 align="center">Hey there 👋, I'm Lokesh-Dhariyal</h1>
+<h1 align="center">Hey, I'm Lokesh-Dhariyal</h1>
 
 <p align="center" style="width:100%">
-  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Final+Year+CS+Student;FullStack+Developer+in+Progress...;Let's+build+something+beautiful!" alt="Typing SVG" />
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=BDBCB8&vCenter=true&width=435&lines=Final+Year+CS+Student;FullStack+Developer+in+Progress...;Let's+build+something+beautiful!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```js
 const loki = {
@@ -20,7 +20,7 @@ const loki = {
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://lokeshdhariyal.vercel.app" target="_blank">
@@ -41,7 +41,7 @@ const loki = {
 
 ---
 
-## 🚀 My Skills
+## My Skills
 
 | Tech Stack | 💻 |
 |------------|-----|
@@ -52,22 +52,22 @@ const loki = {
 
 ---
 
-## 📈 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Dhariyal&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Dhariyal&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Dhariyal&show_icons=true&theme=dark&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Dhariyal&layout=compact&theme=dark" height="160" />
 </p>
 
 ---
 
 
-## 🛠 Projects in Progress
+##  Projects in Progress
 
-- 🎯 Building beautiful full-stack apps  
-- 📚 Learning advanced React & container technologies  
-- 🧠 Sharpening DSA skills with poetic patience  
-- 🎸 Recording guitar covers & coding playlists  
+-  Building beautiful full-stack apps  
+-  Learning advanced React & container technologies  
+-  Sharpening DSA skills with poetic patience  
+-  Recording guitar covers & coding playlists  
 
 ---
 
