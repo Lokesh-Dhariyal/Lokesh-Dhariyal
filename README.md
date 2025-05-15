@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Lokesh "Loki" Dhariyal</h1>
+<h1 align="center">Hey there 👋, I'm Lokesh-Dhariyal</h1>
 
 <p align="center" style="width:100%">
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Final+Year+CS+Student;FullStack+Developer+in+Progress...;Let's+build+something+beautiful!" alt="Typing SVG" />
