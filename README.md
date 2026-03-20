@@ -1,67 +1,71 @@
-<h1 align="center">Hey, I'm Lokesh-Dhariyal</h1>
+<div align="center">
 
----
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-```js
-const loki = {
-  pronouns: "he/him",
-  code: ["JavaScript", "Python", "HTML", "CSS", "C++", "React", "Node"],
-  tools: ["VS Code", "Git", "MongoDB", "Express", "Firebase", "TailwindCSS"],
-  loves: ["Guitar", "Singing", "Building Cool Projects", "Learning New Tech"],
-  goal: "To become a great developer & rock the tech world 🎸"
-};
-```
+<br/>
 
----
+### Hey, I'm Lokesh Dhariyal
 
-## Connect with Me
+Full-Stack Developer · AI Enthusiast · Dehradun, India
 
-<p align="center">
-  <a href="https://lokeshdhariyal.me" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lokesh-dhariyal/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lokeshdhariyal@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lokesh-Dhariyal">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-🌐 **Portfolio:** [lokeshdhariyal.me](https://lokeshdhariyal.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=6e7681)](https://lokeshdhariyal.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=6e7681)](https://www.linkedin.com/in/lokesh-dhariyal/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=6e7681)](mailto:lokeshdhariyal@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=6e7681)](https://github.com/Lokesh-Dhariyal)
+
+</div>
 
 ---
 
-## My Skills
+### About
 
-| Tech Stack  | 💻 |
-|-------------|-----|
-| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Frontend**  | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend**   | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) |
-| **Database**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+I'm a full-stack developer interested in building practical software — particularly at the intersection of web development and AI. I enjoy working across the stack, from frontend interfaces to backend systems, and I'm currently spending time learning how large language models and agent frameworks can be applied to real problems.
+
+When I'm not coding, I play guitar. It keeps things balanced.
 
 ---
 
+### Tech I Work With
 
-##  Projects in Progress
+**Languages** &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=6e7681) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=6e7681) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6e7681) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=6e7681)
 
--  Building beautiful full-stack apps  
--  Learning advanced React & container technologies  
--  Sharpening DSA skills with poetic patience  
--  Recording guitar covers & coding playlists  
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=6e7681) ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=6e7681) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=6e7681) ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=6e7681) ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=6e7681)
+
+**Backend** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6e7681) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=6e7681) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=6e7681) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=6e7681) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=6e7681)
+
+**AI & Tools** &nbsp; ![Claude](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=claude&logoColor=6e7681) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=6e7681) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=6e7681) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=6e7681) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=6e7681)
 
 ---
 
-### ⚡ Fun Fact
+### What I'm Working On
 
-> I don't just write code,  
-> I **compose** it —  
-> Like chords on strings,  
-> or wings of logic,  
-> I let the syntax sing. 🎶
+- Building full-stack apps with AI capabilities
+- Learning about LLMs, RAG pipelines, and agent architectures
+- Improving my problem-solving through consistent DSA practice
+- Contributing to projects I find useful
 
+---
+
+### Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Dhariyal&show_icons=true&bg_color=0d1117&border_color=161b22&icon_color=6e7681&title_color=c9d1d9&text_color=6e7681&hide_border=false&hide_title=false&rank_icon=github" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Dhariyal&layout=compact&bg_color=0d1117&border_color=161b22&title_color=c9d1d9&text_color=6e7681&hide_border=false" height="160" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Dhariyal&background=0d1117&border=161b22&stroke=161b22&ring=6e7681&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=6e7681&currStreakNum=c9d1d9&sideNums=6e7681&dates=6e7681" width="490"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Lokesh-Dhariyal&style=flat-square&color=161b22&label=views&labelColor=0d1117" />
+
+</div>
